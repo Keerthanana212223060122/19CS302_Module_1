@@ -1,9 +1,9 @@
 # EX 3 C program to find number of years based on principle,rate & simple interest.
 ## DATE:30/04/2025
-## AIM:
+### AIM:
 To write a C program to find number of years based on principle,rate & simple interest.
 
-## Algorithm:
+### Algorithm:
 1. Start.
 2. Declare the variables.
 3. Prompt the user to enter a value.
@@ -11,7 +11,7 @@ To write a C program to find number of years based on principle,rate & simple in
 5. Calculate the number of years using the formula:
 6. End . 
 
-## Program:
+### Program:
 ```python
 #include <stdio.h> 
 #include <math.h>
@@ -26,10 +26,10 @@ return 0;
 }
 ```
 
-## Output:
+### Output:
 
 ![image](https://github.com/user-attachments/assets/b1a66268-f110-4907-8820-75a6f0d765f4)
 
 
-## Result:
+### Result:
 Thus the program was executed and the output was verified successfully.
