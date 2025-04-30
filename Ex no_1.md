@@ -1,16 +1,16 @@
 # EX 1 C program to initialize the value as 5.8 & display the same.
 ## DATE:30/04/2025
-## AIM:
+### AIM:
 To write a program to initialize the value as 5.8 & display the same.
 
-## Algorithm:
+### Algorithm:
 1. Start
 2. Declare a variable value of type int
 3. Initialize value with value 5.8.
 4. Print the value of value using printf.
 5. End .
    
-## Program:
+### Program:
 ```python
 #include<stdio.h> 
 int main()
@@ -20,10 +20,10 @@ printf ("%.1f",a);
 return 0;
 }
 ```
-## Output:
+### Output:
 
 ![image](https://github.com/user-attachments/assets/e938b4cc-4cda-4887-a926-f8d6b2963dc6)
 
 
-## Result:
+### Result:
 Thus the program was executed and the output was verified successfully.
