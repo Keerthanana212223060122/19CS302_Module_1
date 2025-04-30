@@ -14,7 +14,7 @@ To write a program to check whether the attendance is PRESENT using simple if st
 8. End.   
 
 ### Program:
-```python
+```c program
 #include<stdio.h> 
 int main()
 {
