@@ -12,7 +12,7 @@ To write a C program to find number of years based on principle,rate & simple in
 6. End . 
 
 ## Program:
-```
+```python
 #include <stdio.h> 
 #include <math.h>
 int main()
