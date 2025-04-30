@@ -3,7 +3,7 @@
 ### AIM:
 To write a C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
 
-### Algorithm
+### Algorithm:
 1. Start.
 2. Declare three variable value of type int for marks.
 3. Prompt the user to enter a value.
