@@ -3,7 +3,7 @@
 ### AIM:
 To write a C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
 
-### Algorithm
+### Algorithm:
 1. Start.
 2. Declare a variable value of type char.
 3. Prompt the user to enter a value.
@@ -30,11 +30,11 @@ int main() {
     return 0;
 }
 ```
-## Output:
+### Output:
 
 ![image](https://github.com/user-attachments/assets/45d00046-d00f-4a35-9d7f-d27c5c311f9c)
 
 
 
-## Result:
+### Result:
 Thus the program was executed and the output was verified successfully.
