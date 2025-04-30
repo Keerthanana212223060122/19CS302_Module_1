@@ -11,7 +11,7 @@ To write a program to initialize the value as 5.8 & display the same.
 5. End .
    
 ## Program:
-```
+```python
 #include<stdio.h> 
 int main()
 {
