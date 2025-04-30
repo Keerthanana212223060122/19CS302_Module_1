@@ -1,9 +1,9 @@
 # EX 2 C program to check whether the attendance is PRESENT using simple if statement.
 ## DATE:30/04/2025
-## AIM:
+### AIM:
 To write a program to check whether the attendance is PRESENT using simple if statement.
 
-## Algorithm:
+### Algorithm:
 1. Start.
 2. Declare a variable value of type char.
 3. Prompt the user to enter a value.
@@ -13,7 +13,7 @@ To write a program to check whether the attendance is PRESENT using simple if st
 7. If false, print " ".
 8. End.   
 
-## Program:
+### Program:
 ```python
 #include<stdio.h> 
 int main()
@@ -27,9 +27,9 @@ printf("Present");
 return 0;
 }
 ```
-## Output:
+### Output:
 ![image](https://github.com/user-attachments/assets/da0a3d7c-b5d9-4476-972d-da42d5737d74)
 
 
-## Result:
+### Result:
 Thus the program was executed and the output was verified successfully.
